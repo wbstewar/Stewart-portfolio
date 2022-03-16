@@ -7,4 +7,4 @@ I am a second-year MSPPM student with a budding passion for spatial analysis and
 # What I hope to learn
 I hope to develop a deeper understanding of network analysis and remote sensing. I also want to improve the design of maps, like adding unique symbols and fonts to maps. Lastly, I hope to use GIS to map vacant land space and calculate the most efficient uses of the space to best serve the community. 
 
-#Portfolio
+# Portfolio
